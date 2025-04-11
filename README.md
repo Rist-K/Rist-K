@@ -73,8 +73,8 @@ Criar o artificial para viver o real.
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="ChatGPT"
+    title="ChatGPT" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/id2UDPob7G/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" 
