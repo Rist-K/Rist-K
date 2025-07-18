@@ -43,5 +43,5 @@ Mas uma coisa é certa: **vai ser divertido** ⚡🎮🚀
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGF0M2hoZHBqZW1qaXN6dTQ5NmxsZHg0eTh0Njc4em9lczU5bmF4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Let's go!">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14NHhwZzVpZmJoNXp0YmExcm01b2VobHptc2szdHdlaGViMzNiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 </p>
