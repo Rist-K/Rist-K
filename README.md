@@ -2,7 +2,7 @@
 
 <p align="center">
 Sou um gamer apaixonado por <strong>produtividade</strong>, <strong>games</strong>, <strong>animes</strong> e <strong>tecnologia</strong>.<br>
-Crio <strong>templates no Notion</strong>, <strong>automações de atendimento</strong> e <strong>clones com IA</strong> — tudo com um toque de criatividade geek 💡✨
+Crio <strong>templates no Notion</strong>, <strong>automações de atendimento</strong> e <strong>clones com IA</strong>, tudo com um toque de criatividade geek 💡✨
 </p>
 
 ---
