@@ -16,7 +16,9 @@ Construir uma comunidade onde **nerds**, **gamers** e curiosos por **produtivida
 - 🌱 Crescer juntos, sem se preocupar com idade ou rótulos
 
 ---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22ots5qdb3aac7c3sovqz5fii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+<details>
 ### 🧍‍♂️ Um pouco sobre mim
 
 - 📍 Tenho **33 anos**, sou **brasileiro raiz 🇧🇷** e sempre atuei nos bastidores, criando automações de atendimento e agendamento para empresas, ecommerces e criadores de conteúdo.
@@ -30,7 +32,7 @@ Construir uma comunidade onde **nerds**, **gamers** e curiosos por **produtivida
 > 💬 E sabe aquela dúvida que te paralisa sobre qual nicho seguir?  
 > Descobri uma resposta que mudou tudo:  
 > **“Você é o seu nicho.”**
-
+</details>
 ---
 
 ### ✨ Quer vir junto?
