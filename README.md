@@ -16,10 +16,9 @@ Construir uma comunidade onde **nerds**, **gamers** e curiosos por **produtivida
 - 🌱 Crescer juntos, sem se preocupar com idade ou rótulos
 
 ---
-[![spotify-github-profile](https://open.spotify.com/intl-pt/track/1A1XuDIYZxSKrQ6mzkWwAT?si=59d7906227b146a2)
 
 <details>
-### 🧍‍♂️ Um pouco sobre mim
+<summary> 🧍‍♂️ Um pouco sobre mim </summary>
 
 - 📍 Tenho **33 anos**, sou **brasileiro raiz 🇧🇷** e sempre atuei nos bastidores, criando automações de atendimento e agendamento para empresas, ecommerces e criadores de conteúdo.
 
@@ -35,6 +34,11 @@ Construir uma comunidade onde **nerds**, **gamers** e curiosos por **produtivida
 </details>
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rist-K&show_icons=true&bg_color=00000000)
+## Portfolio:
+- [Yuna](https://dash.superagentes.ai/@yuna)
+- [David Goggins Clone AI](https://dash.superagentes.ai/@goggins)
+
 ### ✨ Quer vir junto?
 
 Se em algum momento você se sentiu conectado com essa jornada meio maluca que estou começando, te convido a me acompanhar.
@@ -47,3 +51,5 @@ Mas uma coisa é certa: **vai ser divertido** ⚡🎮🚀
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14NHhwZzVpZmJoNXp0YmExcm01b2VobHptc2szdHdlaGViMzNiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 </p>
+<h1>Skills</h1>
+<h2>Programas que uso</h2> 
