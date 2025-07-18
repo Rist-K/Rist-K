@@ -16,7 +16,7 @@ Construir uma comunidade onde **nerds**, **gamers** e curiosos por **produtivida
 - 🌱 Crescer juntos, sem se preocupar com idade ou rótulos
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22ots5qdb3aac7c3sovqz5fii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://open.spotify.com/intl-pt/track/1A1XuDIYZxSKrQ6mzkWwAT?si=59d7906227b146a2)
 
 <details>
 ### 🧍‍♂️ Um pouco sobre mim
